@@ -87,7 +87,6 @@
     }
   },
   "custom_category": [
-    // 电影分类
     {
       "name": "热门",
       "type": "movie",
@@ -168,8 +167,6 @@
       "type": "movie",
       "query": "治愈"
     },
-    
-    // 电视剧分类
     {
       "name": "热门",
       "type": "tv",
